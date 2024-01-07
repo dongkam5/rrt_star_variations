@@ -1,5 +1,5 @@
 # rrt_star_variations
-* RRT, RRT*, P-RRT*, F-RRT*, PF-RRT*, RRT-connect, RRT*-connect
+* RRT, RRT*, P-RRT*, F-RRT*, PF-RRT*
 
 ## P-RRT-star
 ![P-RRT 시뮬레이션](P-RRT-STAR.png)
