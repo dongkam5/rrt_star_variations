@@ -1,4 +1,4 @@
-# rrt_search
+# rrt_variation
 * RRT, RRT*, P-RRT*, F-RRT*, PF-RRT*, RRT-connect, RRT*-connect
 
 ## P-RRT-star
